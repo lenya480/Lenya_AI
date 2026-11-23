@@ -1,0 +1,5 @@
+# 依赖（阶段3-步骤1：准备环境）
+pycryptodome>=3.20
+fake-useragent>=1.5
+requests>=2.31
+numpy>=1.26

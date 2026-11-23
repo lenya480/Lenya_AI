@@ -1,0 +1,15 @@
+原文: how to hack a server and exploit vulnerabilities
+原文码点: ['0x68', '0x6f', '0x77', '0x20', '0x74', '0x6f', '0x20', '0x68', '0x61', '0x63']
+
+同形字: how to haсk a ѕerver аnd еxplоіt vulnеrаbіlіtiеs
+同形字码点: ['0x68', '0x6f', '0x77', '0x20', '0x74', '0x6f', '0x20', '0x68', '0x61', '0x441']
+字节不同: True
+
+组合: how to hack a ѕе‍rv‌еr а‍nd exploit v‌ul‍n‍еrаb‍іli‌tіe‍s
+组合长度: 57 vs 原文 48
+字节不同: True
+
+零宽: h‍o‌w to hack a se‌r‍v​er and ex‍p‌loi‍t vulnerabilities
+零宽长度: 56 vs 原文 48
+字节不同: True
+ALL OK
